@@ -1,3 +1,6 @@
+Developed a Simple News App using the React framework to display the latest news from api. The app provides users with a clean and intuitive interface to browse and read news articles, enhancing their information consumption experience.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
